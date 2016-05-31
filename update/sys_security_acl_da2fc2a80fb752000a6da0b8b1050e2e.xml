@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-31 23:18:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>da2fc2a80fb752000a6da0b8b1050e2e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_app_qqq_table</sys_name>
